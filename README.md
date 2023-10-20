@@ -52,4 +52,4 @@ fn negate(unchecked_num: Integer) -> Integer {
 
 ## License
 
-This project is licensed under the (MIT license)[./LICENSE].
+This project is licensed under the [MIT license](./LICENSE).
